@@ -14,7 +14,7 @@ https://review.opendev.org/c/openstack/horizon/+/926379
 ## Related writing
 
 I documented the full process of building this feature:  
-*"From Concept to Code: Building the Deactivate/Reactivate Feature in OpenStack Horizon"*  
+*"[From Concept to Code: Building the Deactivate/Reactivate Feature in OpenStack Horizon](https://superuser.openinfra.org/articles/from-concept-to-code-building-the-deactivate-reactivate-feature-in-openstack-horizon/)"*  
 Published on Superuser (OpenInfra Foundation), December 2024
 
 ## Files changed
